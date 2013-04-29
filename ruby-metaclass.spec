@@ -26,7 +26,6 @@ Adds a metaclass method to all Ruby objects
 Summary:	Documentation for %{name}
 Group:		Documentation
 Requires:	%{name} = %{version}-%{release}
-BuildArch:	noarch
 
 %description doc
 Documentation for %{name}
