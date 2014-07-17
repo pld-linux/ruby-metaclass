@@ -6,7 +6,7 @@
 Summary:	Adds a metaclass method to all Ruby objects
 Name:		ruby-%{gem_name}
 Version:	0.0.1
-Release:	1
+Release:	2
 Group:		Development/Languages
 # https://github.com/floehopper/metaclass/issues/1
 License:	MIT
